@@ -20,7 +20,7 @@ Aplikasi blog sederhana berbasis Laravel yang menerapkan autentikasi pengguna da
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/USERNAME/laravel-blog-alfi.git
+git clone https://github.com/alfia1815/laravel-blog-alfi.git
 2. Masuk ke Folder Project
 bash
 Copy code
