@@ -18,7 +18,7 @@ Aplikasi blog sederhana berbasis Laravel yang menerapkan autentikasi pengguna da
 
 ## ⚙️ Instalasi & Menjalankan Aplikasi
 
-### 1. Clone Repository
+1. Clone Repository
 ```bash
 git clone https://github.com/alfia1815/laravel-blog-alfi.git
 2. Masuk ke Folder Project
@@ -38,7 +38,6 @@ cp .env.example .env
 php artisan key:generate
 5. Atur Database
 Buka file .env lalu sesuaikan konfigurasi database:
-
 ini
 Copy code
 DB_DATABASE=nama_database
@@ -53,25 +52,17 @@ bash
 Copy code
 php artisan serve
 Aplikasi dapat diakses melalui:
-
 cpp
 Copy code
 http://127.0.0.1:8000
-🧩 Versi Teknologi
-Laravel Framework 12.x
 
-PHP 8.2
-
+Versi Teknologi:
+Laravel Framework 12.47.0
+PHP 8.2.12 
 MySQL
-
 Tailwind CSS
-
 Laravel Breeze (Authentication)
 
-## ⚠️ Catatan Penting
-- Folder `vendor` tidak disertakan
-- File `.env` tidak disertakan
-- Repository bersifat public sesuai ketentuan pengumpulan
 
 ## 👤 Author
 Alfi Aulia  
